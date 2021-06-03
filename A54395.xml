@@ -1,0 +1,746 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Perpetval crosse, or, Passion of Iesvs Christ from the first instant of his incarnation to the last of his life / set forth in fourtie pictures for the greater profite of soules.</title>
+         </titleStmt>
+         <extent>Approx. 18KB of XML-encoded text transcribed from 25 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A54395</idno><idno type="EEBO-CITATION">12256952</idno>
+  <idno type="VID">57565</idno>
+  <idno type="EEBO-PROQUEST">2264188239</idno>
+  
+            <idno type="STC">Wing P1581</idno>
+            <idno type="STC">ESTC R31787</idno>
+            <idno type="OCLC">12256952</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A54395)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 57565)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1510:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Perpetval crosse, or, Passion of Iesvs Christ from the first instant of his incarnation to the last of his life / set forth in fourtie pictures for the greater profite of soules.</title>
+               </titleStmt>
+               <extent>48 p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed at Antwerp by Cornelius Woons ...,</publisher>
+                  <pubPlace>[Antwerp] :</pubPlace>
+                  <date>1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: pages stained with slight loss of print.</note>
+                  <note>Reproduction of original in the Emanuel College Library, Cambridge University.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Jesus Christ --  Crucifixion --  Illustrations.</term>
+               <term type="personal_name">Jesus Christ --  Biography --  Illustrations.</term>
+               <term type="personal_name">Jesus Christ --  Passion --  Illustrations.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:57565:1"/>
+            <pb facs="tcp:57565:1"/>
+            <p>THE PERPETVAL CROSSE OR PASSION OF IESVS CHRIST From the first instant Of his INCARNATION, to the last of his life set forth In fourtie pictures for the greater profite of soules.</p>
+            <figure>
+               <figDesc>Maltese cross</figDesc>
+            </figure>
+            <p>Printed at Antvverp By Cornelius Woons, dvvelling at the signe of the golden Starie, 1649.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>
+                           <hi>VVith Permission.</hi>
+                        </p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:57565:2"/>
+            <head>The perpetual Crosse of IE<g ref="char:EOLhyphen"/>SVS CHRIST, both interiour, and exteriour, from the first in<g ref="char:EOLhyphen"/>stant of his Incarnation, to the very last of his Life.</head>
+            <p>THere are many of opinion that Christ onely suffered in the time of his Passi<g ref="char:EOLhyphen"/>on and vvas Crucified but those three ho<g ref="char:EOLhyphen"/>vvers that he hung upon the Crosse: vvhereas it is most certaine he vvas fastned thereunto, and lived in continuall sufferance the three and thirty vvhole yeares of his life, vvhich, devided into dayes, make at least tvvelve thousand and fifty, into hovvres tvvo hun<g ref="char:EOLhyphen"/>dred, eight'y nine thousand, tvvo hundred, seventy tvvo.</p>
+            <p>This assertion <hi>Cardinal Lugo</hi> shevves cle<g ref="char:EOLhyphen"/>arely out of scripture, a'nd holy fathers. CHRIST (<hi>Sayth he</hi>) vvas not onely in tor<g ref="char:EOLhyphen"/>ments and sorrovv the tyme of his bitter Passion but during the vvhole course of his life. He did not onely greive at the death of Lazarus, and sight of Ierusalem; at both vvhich tymes he is saied to have vvept, but
+<pb n="3" facs="tcp:57565:2"/> he felt the like sorrow all the tyme our sins, and his ovvne Passion vvere represented to his minde, vvhich was continually, accor<g ref="char:EOLhyphen"/>ding to the holy Psalmist: <hi>Psal. 37. Quon<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>am ego in flagella paratus sum, et dolor meus in con<g ref="char:EOLhyphen"/>spectu meo semper. Because I am ready for strypes and my greife is alvvaies in my sight.</hi> vvhich wordes are spoken of our B, Saviour, as <hi>S. Chrysostome, S. Austine,</hi> S. <hi>Ierome,</hi> and S. <hi>Grego<g ref="char:EOLhyphen"/>ry</hi> doe affirme: to omit innumerable other occasions of suffering vvhich he had accor<g ref="char:EOLhyphen"/>ding to those other vvords of the Psalmist. <hi>Psal. 87. Pauper sum ego, &amp; in laboribns a iuuen<g ref="char:EOLhyphen"/>tute mea I am poore and in labours from my youth.</hi> Which vvordes are likevvise interpreted of our B. Saviour by <hi>S. Ierome, S. Austine, Euthy<g ref="char:EOLhyphen"/>mius</hi> and others. Thus <hi>Cardinal Lugo.</hi>
+            </p>
+            <p>Cardinal <hi>Bellarmine</hi> agrees vvith <hi>Lugo</hi> in the same point; for, commenting upon the 87. <hi>Psalm.</hi> thus he writes: To the end vvee may not thinke CHRISTS Passion was one<g ref="char:EOLhyphen"/>ly three hovvers or at most, one vvhole day the Holy Ghoste doth heere declare unto us that he was never vvithout his suffe<g ref="char:EOLhyphen"/>rings: for besides his most bitter death, vvhich vvas allvvaies before his minde, he
+<pb n="4" facs="tcp:57565:3"/> vvas in continual Labours and misery his vvhole life long. Thus <hi>Bellarmine.</hi>
+            </p>
+            <p>Hence vvee conclude that our B. Savi<g ref="char:EOLhyphen"/>our vvas neuer vvithout his Crosse, both outvvard and invvard; and especially this latter, for the tovve reasons above men<g ref="char:EOLhyphen"/>tioned by <hi>Card. Lugo.</hi>
+            </p>
+            <p>There are divers other learned authours of the same opinion as Lessius <hi>De Perfect di<g ref="char:EOLhyphen"/>v<gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> l. 12. c. 17. n. n.</hi> 133. Io. Eusebius Nie<g ref="char:EOLhyphen"/>rembergius. <hi>l. 2. c. 5. de Adoratione in spiritu &amp; veritate.</hi> Io. Lorinus. <hi>Ps. 37. v.</hi> 18. Corn. à Lapide. <hi>Math. 26. v.</hi> 37. Balthasar Corde<g ref="char:EOLhyphen"/>rius. <hi>Ps. 87. v.</hi> 16. Anton. de Gaudier <hi>de na<g ref="char:EOLhyphen"/>tura &amp; statib. Perfectionis▪ de Instrumentis. sect. 12. c.</hi> 5. Franciscus Arias. <hi>de Imitatione Chri<g ref="char:EOLhyphen"/>sti. p. 3. c. 22. Tr.</hi> 1. Ioannes Baptista Sainct<g ref="char:EOLhyphen"/>lure, <hi>De cognitione &amp; amore Dei, lib. 1. cap. 11. sect.</hi> 1. Gabriel Vasques, <hi>Tom. 1. in. 3. p. q. 18. ab Disp. 73. c. 4. n,</hi> 28. R. P. Vincentius Car<g ref="char:EOLhyphen"/>rafa Soc. JESV Praep. Generalis sub nomine Aloysij Siderei. <hi>De via caeli. c.</hi> 6. §. 9.</p>
+            <p>I content my selfe, at present, vvith the authority of these twelve learned vvriters all of them being of our least Society, and meddle not vvith men of other Orders▪
+<pb n="5" facs="tcp:57565:3"/> vvhoe are very many, both learned and gra<g ref="char:EOLhyphen"/>ve, of the same opinion.</p>
+            <div type="part">
+               <head>The manner and fashon of using the pictures of this little booke.</head>
+               <p>COnsider in every mystery some one, or more, of follovving circumstances.</p>
+               <p n="1">1. Whoe is that suffers? God of an infi<g ref="char:EOLhyphen"/>nire Maiesty.</p>
+               <p n="2">2. What it is that he suffers? A paine, vvhich is much augmented by the internal afflicton of his minde, that continually accompanies it.</p>
+               <p n="3">3. For vvhome doth he suffer? For me that am a vile sinner.</p>
+               <p n="4">4. Why? To comfort help and save me.</p>
+               <p n="5">5. In what place? In that vvhere he fin<g ref="char:EOLhyphen"/>des gratest maitter of patience.</p>
+               <p n="6">6. At vvhat tyme? At that vvhich is most inconvenient to himselfe, and most agre<g ref="char:EOLhyphen"/>able to me.</p>
+               <p n="7">7. From vvhome? From those very per<g ref="char:EOLhyphen"/>sons for vvhose sake he suffers.</p>
+               <p n="8">
+                  <pb n="6" facs="tcp:57565:4"/>8. After vvhat manner? After such an one as if neede vvere, he vvould suffer a hundred thousand times more for vs.</p>
+            </div>
+            <div type="part">
+               <head>Afterwardes demand these twoe questions of thy selfe.</head>
+               <p n="1">1. WHat hetherto you have done for him? hardly any thing, but in<g ref="char:EOLhyphen"/>steed of good a vvorld of iniquity.</p>
+               <p n="2">2. What vvill you doe hence forvvard? thi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> very day I vvill doe such, and such a good vvorke, and suffer such, and such a Crosse, for his sake.</p>
+               <p>Besides it vvill not be amisse to exercise some one of these acts follovving, vvhich maisters of spirit are vvont ordinarily to bring. 1. of Compassion. 2, of Gratitude. 3. Of Contrition. 4. Of admiration. 5. of Lo<g ref="char:EOLhyphen"/>ve. 6. of Confidence. 7, Of Imitation.</p>
+               <div type="section">
+                  <head>De Picturis.</head>
+                  <p>
+                     <q rend="margQuotes">QVod legentibus scriptura, hoc idiotis praestat pictura cernentibus. Quia in istâ etiam ignorantes vident quod se<g ref="char:EOLhyphen"/>qui debeant: in istâ legunt, qui literas nes<g ref="char:EOLhyphen"/>ciunt. Vnde &amp; praecipuè gentibus pro lec<g ref="char:EOLhyphen"/>tione pictura est.</q>
+                     <hi>Greg. Mag. l. 9. ep. 9. ad Serenū
+<pb n="7" facs="tcp:57565:4"/> Massil.</hi> A picture to the ignorant is like a booke to the learned. For the ignorant se<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> therein vvhat they are to practice; and those reade in it that knovv not theyr let<g ref="char:EOLhyphen"/>ters. Wherefore a picture serues the gentil<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> forl a lesson.</p>
+                  <p>
+                     <q rend="margQuotes">Triplex fuit causa institutionis imagi<g ref="char:EOLhyphen"/>num in Ecclesiâ. Primò, ad instructionem laicorum quibus imagines exhibentur lo<g ref="char:EOLhyphen"/>co librorum. Secundò, vt Incarnation is Mysterium, &amp; Sanctorum exempla nobis frequentius, &amp; presentius affigerentur. Ter<g ref="char:EOLhyphen"/>tiò, ad excitandum devotionis affectum, qui magis ex visis, quam auditis causa<g ref="char:EOLhyphen"/>tur.</q>
+                     <hi>Rob. Holcotius in libr. sapient. lect.</hi> 157.</p>
+                  <p>For three respects the use of pictures vvas instituted in the Holy Church First to instruct the ignorant. Secondly, to im<g ref="char:EOLhyphen"/>print the mystery of the incarnation, and the example of saintes, more lively in our mindes. Thirdly, to stir us up to greater de<g ref="char:EOLhyphen"/>votion, vvhich is done better by the obiect of our eyes then our eares.</p>
+               </div>
+            </div>
+            <div type="cost">
+               <head>The Price of the Booke.</head>
+               <p>
+                  <hi>This little booke, to geather with the 40, pictures, is to be had, unbound, for three half pence.</hi>
+               </p>
+            </div>
+            <div type="list_of_illustrations">
+               <pb n="8" facs="tcp:57565:5"/>
+               <div type="illustration">
+                  <head>81. The Crosse chosen from eternity.</head>
+                  <p>
+                     <figure>
+                        <figDesc>woodcut depicting the Christian trinity with a cross</figDesc>
+                        <byline>AS</byline>
+                        <p>I C.I.</p>
+                     </figure>
+                  </p>
+                  <p>In mercie everlasting have J had mercie on the, sayd thy Redeemer our Lord. <hi>Isaias▪ 54. v.</hi> 8.</p>
+                  <pb n="9" facs="tcp:57565:5"/>
+               </div>
+               <div type="illustration">
+                  <head>2. His internall Crosse at his Incarnation.</head>
+                  <p>
+                     <figure>
+                        <figDesc>woodcut depicting Mary, an angel, and a cross</figDesc>
+                        <byline>AS</byline>
+                        <p>I C.I.</p>
+                     </figure>
+                  </p>
+                  <p>Coming into the vvorld he Saith: Host and oblation thou wouldest not: but a body thou hast fitted to me. <hi>Heb. 10. v.</hi> 5.</p>
+                  <pb n="10" facs="tcp:57565:6"/>
+               </div>
+               <div type="illustration">
+                  <head>3. His external Crosse in his Nativity.</head>
+                  <p>
+                     <figure>
+                        <figDesc>woodcut depicting the nativity set below a cross</figDesc>
+                        <byline>AS</byline>
+                        <p>I.C.I.</p>
+                     </figure>
+                  </p>
+                  <p>A little childe is borne to us, and a sonne is given to us, and principality is made u<g ref="char:EOLhyphen"/>pon his shoulder. <hi>Isaias cap. 9. v.</hi> 6.</p>
+                  <pb n="11" facs="tcp:57565:6"/>
+               </div>
+               <div type="illustration">
+                  <head>4. His Circumcision.</head>
+                  <p>
+                     <figure>
+                        <figDesc>woodcut depicting the circumcision of Jesus</figDesc>
+                        <byline>AS</byline>
+                        <p>I.C.I</p>
+                     </figure>
+                  </p>
+                  <p>After eight daies were expired, that the childe should be circumcised. <hi>Luc. 2. v.</hi> 21.</p>
+                  <pb facs="tcp:57565:7"/>
+               </div>
+               <div type="illustration">
+                  <head>5. His oblation in the Temple.</head>
+                  <p>
+                     <figure>
+                        <figDesc>woodcut depicting the presentation of Jesus as an infant in the temple</figDesc>
+                        <byline>AS</byline>
+                        <p>I.C.I.</p>
+                     </figure>
+                  </p>
+                  <p>They carried him into Ierusalem to present him to our Lord. <hi>Luc. 2. v.</hi> 22.</p>
+                  <pb facs="tcp:57565:7"/>
+               </div>
+               <div type="illustration">
+                  <head>6. His Flight into Aegypt.</head>
+                  <p>
+                     <figure>
+                        <figDesc>woodcut depicting Joseph with Jesus and Mary on a donkey</figDesc>
+                        <byline>AS</byline>
+                        <p>I.C.I.</p>
+                     </figure>
+                  </p>
+                  <p>Arise, and take the childe, and his Mother, and fly into Aegypt. <hi>Mat. 2. v.</hi> 13.</p>
+                  <pb n="14" facs="tcp:57565:8"/>
+               </div>
+               <div type="illustration">
+                  <head>7. His loosing in the Temple.</head>
+                  <p>
+                     <figure>
+                        <figDesc>woodcut depicting Jesus as a boy speaking in the temple</figDesc>
+                        <byline>AS</byline>
+                        <p>I.C.I.</p>
+                     </figure>
+                  </p>
+                  <p>Behold thy father and I sorrovving did seeke the. <hi>Luc. 2. v.</hi> 48.</p>
+                  <pb n="15" facs="tcp:57565:8"/>
+               </div>
+               <div type="illustration">
+                  <head>8. His Carpenters Trade.</head>
+                  <p>
+                     <figure>
+                        <figDesc>woodcut depicting Jesus working as a carpenter</figDesc>
+                        <byline>A</byline>
+                        <p>I.C.I.</p>
+                     </figure>
+                  </p>
+                  <p>Is not this the Carpenter the Sone of Mary▪ <hi>Mar. 6. v.</hi> 3.</p>
+                  <pb n="16" facs="tcp:57565:9"/>
+               </div>
+               <div type="illustration">
+                  <head>9. The death of S. Ioseph.</head>
+                  <p>
+                     <figure>
+                        <figDesc>woodcut depicting Jesus and Mary at Joseph's deathbed</figDesc>
+                        <byline>AS</byline>
+                        <p>I.C.I.</p>
+                     </figure>
+                  </p>
+                  <p>IESVS and the B. Virgin vvere vvith him vvhen he dyed. <hi>Bernard. Sen. Tom. 3. a. 2. c. 3. pag.</hi> 462.</p>
+                  <pb n="17" facs="tcp:57565:9"/>
+               </div>
+               <div type="illustration">
+                  <head>10. His Temptation in the Desert.</head>
+                  <p>
+                     <figure>
+                        <figDesc>woodcut depicting the temptation of Jesus</figDesc>
+                        <byline>AS</byline>
+                        <p>I.C.I.</p>
+                     </figure>
+                  </p>
+                  <p>The tempter approched, and Sayd to him if thou be the Sone of God, commaund that these stones be made bread. <hi>Math. 4. v.</hi> 3.</p>
+                  <pb n="18" facs="tcp:57565:10"/>
+               </div>
+               <div type="illustration">
+                  <head>11. His vvearines at the Fountaine.</head>
+                  <p>
+                     <figure>
+                        <figDesc>woodcut depicting Jesus sitting at a fountain beside a woman</figDesc>
+                        <byline>AS</byline>
+                        <p>I.C.I.</p>
+                     </figure>
+                  </p>
+                  <p>IESVS therefore, vvearied of his iourney, sa<g ref="char:EOLhyphen"/>te soe upon the fontaine. <hi>Io. 4. v.</hi> 6,</p>
+                  <pb n="19" facs="tcp:57565:10"/>
+               </div>
+               <div type="illustration">
+                  <head>12. His Derision</head>
+                  <p>
+                     <figure>
+                        <figDesc>woodcut depicting two men pointing at Jesus</figDesc>
+                        <byline>AS</byline>
+                        <p>I.C.I.</p>
+                     </figure>
+                  </p>
+                  <p>Doe not vve say vvel that thou art a Sama<g ref="char:EOLhyphen"/>ritane and hast a divel. <hi>Io. 8. v.</hi> 48.</p>
+                  <pb n="20" facs="tcp:57565:11"/>
+               </div>
+               <div type="illustration">
+                  <head>13. The beheading S. Iohn Baptist.</head>
+                  <p>
+                     <figure>
+                        <figDesc>woodcut depicting the beheading of John the Baptist</figDesc>
+                        <byline>AS</byline>
+                        <p>I.C.I.</p>
+                     </figure>
+                  </p>
+                  <p>He beheaded him in the prison and brought his head in a platter und gaue it to the Damsel. <hi>Mar. 6. v.</hi> 28.</p>
+                  <pb n="21" facs="tcp:57565:11"/>
+               </div>
+               <div type="illustration">
+                  <head>14. His stoning.</head>
+                  <p>
+                     <figure>
+                        <figDesc>woodcut depicting three men stoning Jesus</figDesc>
+                        <byline>AS</byline>
+                        <p>I.C.I.</p>
+                     </figure>
+                  </p>
+                  <p>The Iewes tooke up stones to stone him. <hi>Io. 10. v.</hi> 32.</p>
+                  <pb n="22" facs="tcp:57565:12"/>
+               </div>
+               <div type="illustration">
+                  <head>15. His throwing dovvne the mountaine.</head>
+                  <p>
+                     <figure>
+                        <figDesc>woodcut depicting three men pushing Jesus off cliff</figDesc>
+                        <byline>AS</byline>
+                        <p>I.C.I.</p>
+                     </figure>
+                  </p>
+                  <p>They cast him out of the citie, and then brought him to the edge of the hil, that they might throw him dovvne head<g ref="char:EOLhyphen"/>long. <hi>Luc. 4. v.</hi> 29.</p>
+                  <pb n="23" facs="tcp:57565:12"/>
+               </div>
+               <div type="illustration">
+                  <head>16. His taking leave of his B. Mother.</head>
+                  <p>
+                     <figure>
+                        <figDesc>woodcut depicting Mary kneeling before Jesus</figDesc>
+                        <byline>AS</byline>
+                        <p>I.C.I.</p>
+                     </figure>
+                  </p>
+                  <p>Speaking vvith her a part, and affoarding her his presence, vvhich, vvith in a short time he vvas to bereaue her of <hi>S. Bonavent. cap. 72. Mod. vi<g ref="char:EOLhyphen"/>tae Christi.</hi>
+                  </p>
+                  <pb n="24" facs="tcp:57565:13"/>
+               </div>
+               <div type="illustration">
+                  <head>17. His last Supper.</head>
+                  <p>
+                     <figure>
+                        <figDesc>woodcut depicting Jesus at the Last Supper</figDesc>
+                        <byline>AS</byline>
+                        <p>I.C.I.</p>
+                     </figure>
+                  </p>
+                  <p>While rhey were eating he sayd: Amen, I Say to you, that one of you shal betray<g ref="char:EOLhyphen"/>me <hi>Math. 26. v.</hi> 21.</p>
+                  <pb facs="tcp:57565:13"/>
+               </div>
+               <div type="illustration">
+                  <head>18. His p<gap reason="illegible" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> in the Cardin.</head>
+                  <p>
+                     <figure>
+                        <figDesc>woodcut depicting of an angel with a cross handing a chalice to Jesus</figDesc>
+                        <byline>AS</byline>
+                        <p>I.C.I.</p>
+                     </figure>
+                  </p>
+                  <p>Father, if thou vvilt, transf<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rre this chalice from me. But yet not my vvil, but thine be done. And there appeared to him an Anges from he<g ref="char:EOLhyphen"/>auen, strengthening him. <hi>Luc. 22. v.</hi> 42.</p>
+                  <pb n="26" facs="tcp:57565:14"/>
+               </div>
+               <div type="illustration">
+                  <head>19. Iudas his Kiss<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</head>
+                  <p>
+                     <figure>
+                        <figDesc>woodcut depicting Jesus being arrested as Judas kisses him</figDesc>
+                        <byline>AS</byline>
+                        <p>I.C.I.</p>
+                     </figure>
+                  </p>
+                  <p>Forthvvith Coming to IESVS, he said, Haile Rabbi. And he kissed him. <hi>Math. 26. v.</hi> 49.</p>
+                  <pb facs="tcp:57565:14"/>
+               </div>
+               <div type="illustration">
+                  <head>20. The Torrent Cedron.</head>
+                  <p>
+                     <figure>
+                        <figDesc>woodcut depicting Jesus, bound at the hands, sitting in water beside a bridge</figDesc>
+                        <byline>AS</byline>
+                     </figure>
+                  </p>
+                  <p>He went forth vvith his disciples beyond the Torrent Cedron. <hi>Ioan. 18. v.</hi> 1. Jnto which he fell. <hi>Vid. Adrichom. in Descrip. Ierus. n.</hi> 207.</p>
+                  <pb n="28" facs="tcp:57565:15"/>
+               </div>
+               <div type="illustration">
+                  <head>21. Annas.</head>
+                  <p>
+                     <figure>
+                        <figDesc>woodcut depicting Jesus being struck on the head</figDesc>
+                        <byline>AS</byline>
+                        <p>I.C.I.</p>
+                     </figure>
+                  </p>
+                  <p>One of the Ministers standing by, gaue IE<g ref="char:EOLhyphen"/>SVS a blovv. <hi>Io. 18. v.</hi> 22.</p>
+                  <pb n="29" facs="tcp:57565:15"/>
+               </div>
+               <div type="illustration">
+                  <head>22. Caiphas.</head>
+                  <p>
+                     <figure>
+                        <figDesc>woodcut depicting a blindfolded Jesus being struck by two men</figDesc>
+                        <byline>AS</byline>
+                        <p>I.C.I.</p>
+                     </figure>
+                  </p>
+                  <p>They did blindefold him, and smote his face. And then asked him, saying Pro<g ref="char:EOLhyphen"/>phecie. <hi>Luc. 22. v.</hi> 64.</p>
+                  <pb n="30" facs="tcp:57565:16"/>
+               </div>
+               <div type="illustration">
+                  <head>23 Pilate.</head>
+                  <p>
+                     <figure>
+                        <figDesc>woodcut depicting Jesus surrounded by men</figDesc>
+                        <byline>AS</byline>
+                     </figure>
+                  </p>
+                  <p>They began to accuse him saying, vvee ha<g ref="char:EOLhyphen"/>ue found this man subuerting our nati<g ref="char:EOLhyphen"/>on. <hi>Luc, 23. v.</hi> 2.</p>
+                  <pb n="31" facs="tcp:57565:16"/>
+               </div>
+               <div type="illustration">
+                  <head>24. Herod.</head>
+                  <p>
+                     <figure>
+                        <figDesc>woodcut depicting Herod sending Jesus away</figDesc>
+                        <byline>AS</byline>
+                     </figure>
+                  </p>
+                  <p>Herod vvith his Army set him at naught: and he mocked him putting on him a wh<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>te garment, and sent him back to Pila<g ref="char:EOLhyphen"/>te. <hi>Luc 23. v.</hi> 11.</p>
+                  <pb n="32" facs="tcp:57565:17"/>
+               </div>
+               <div type="illustration">
+                  <head>25. His vvhipping.</head>
+                  <p>
+                     <figure>
+                        <figDesc>woodcut depicting Jesus being whipped by two men</figDesc>
+                        <byline>AS</byline>
+                        <p>I.C.I.</p>
+                     </figure>
+                  </p>
+                  <p>Then therefore P<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>late tooke JESVS, and scourged him. Io. 19. <hi>v.</hi> 1.</p>
+                  <pb n="33" facs="tcp:57565:17"/>
+               </div>
+               <div type="illustration">
+                  <head>26. His Crovvning vvith Tho<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nes.</head>
+                  <p>
+                     <figure>
+                        <figDesc>woodcut depicting Jesus wearing a crown of thorns, surrounded by three men</figDesc>
+                        <byline>AS</byline>
+                        <p>I.C.I.</p>
+                     </figure>
+                  </p>
+                  <p>Platting a crovvne of thornes, they put it upon him. And they began to salute him Haile king of the Jevves. <hi>Mar. 15. v.</hi> 17.</p>
+                  <pb n="34" facs="tcp:57565:18"/>
+               </div>
+               <div type="illustration">
+                  <head>27. ECCE HOMO.</head>
+                  <p>
+                     <figure>
+                        <figDesc>woodcut depicting Herod with Jesus</figDesc>
+                        <byline>AS</byline>
+                        <p>I.C.I.</p>
+                     </figure>
+                  </p>
+                  <p>He <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>th to th<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>, Lo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> the man. T<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ey c<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ied, saying Crucifie him, crucifie him. Io. 19. v. 5. 6.</p>
+                  <pb n="35" facs="tcp:57565:18"/>
+               </div>
+               <div type="illustration">
+                  <head>28. His Carrying the Crosse.</head>
+                  <p>
+                     <figure>
+                        <figDesc>woodcut depicting two men with Jesus carrying a cross</figDesc>
+                        <byline>AS</byline>
+                        <p>I.C.I.</p>
+                     </figure>
+                  </p>
+                  <p>Bearing his owne Crosse nevvent forth into that which is called the of Calvary place. <hi>Ioan. 19. v.</hi> 17.</p>
+                  <pb n="36" facs="tcp:57565:19"/>
+               </div>
+               <div type="illustration">
+                  <head>29. His first fall vnder the Crosse.</head>
+                  <p>
+                     <figure>
+                        <figDesc>woodcut depicting Jesus stumbling with cross</figDesc>
+                        <byline>AS</byline>
+                        <p>I.C.I.</p>
+                     </figure>
+                  </p>
+                  <p>In a place tovvardes the west Christ fell dovvne upon the ground. <hi>Adrichom. in descript. Ierus. n.</hi> 118,</p>
+                  <pb n="37" facs="tcp:57565:19"/>
+               </div>
+               <div type="illustration">
+                  <head>30. His meeting his B. Mother.</head>
+                  <p>
+                     <figure>
+                        <figDesc>woodcut depicting Jesus carrying cross beside Mary</figDesc>
+                        <byline>AS</byline>
+                        <p>I.C.I.</p>
+                     </figure>
+                  </p>
+                  <p>The most <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> ovv<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>u<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Mother meetes the most sorrovvfull Sone: <hi>S. B<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>navent. lib. Medit. vitae Christi cap. 77. Suar<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>z. Tom. 2. in 3. p. dist. 96. sect.</hi> 2.</p>
+                  <pb n="38" facs="tcp:57565:20"/>
+               </div>
+               <div type="illustration">
+                  <head>3▪ Simon <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>v<gap reason="illegible" resp="#keyers" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>oe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</head>
+                  <p>
+                     <figure>
+                        <figDesc>woodcut depicting man helping Jesus carry the cross</figDesc>
+                        <byline>AS</byline>
+                        <p>I.C.I.</p>
+                     </figure>
+                  </p>
+                  <p>They found a man of Cyrene, named Si<g ref="char:EOLhyphen"/>mon: him they forced to take up his Crosse, <hi>Math. 27. v.</hi> 32.</p>
+                  <pb n="39" facs="tcp:57565:20"/>
+               </div>
+               <div type="illustration">
+                  <head>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>2. Veronica.</head>
+                  <p>
+                     <figure>
+                        <figDesc>woodcut depicting woman holding handkerchief with Jesus' face upon it next to Jesus carrying the cross</figDesc>
+                        <byline>AS</byline>
+                        <p>I.C.I.</p>
+                     </figure>
+                  </p>
+                  <p>This holy vvoeman tooke the forme of Christs bloodie face on a handekercher as it is commonly knowne. <hi>Adrichom. in descript. Ierus. n.</hi> 118.</p>
+                  <pb n="40" facs="tcp:57565:21"/>
+               </div>
+               <div type="illustration">
+                  <head>33. His second fall vnder the Crosse.</head>
+                  <p>
+                     <figure>
+                        <figDesc>woodcut depicting Jesus stumbling with cross</figDesc>
+                        <byline>AS</byline>
+                        <p>I.C.I.</p>
+                     </figure>
+                  </p>
+                  <p>At iudgement gate he fell againe. <hi>Adric<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>om. Ibid.</hi>
+                  </p>
+                  <pb n="41" facs="tcp:57565:21"/>
+               </div>
+               <div type="illustration">
+                  <head>34. The lamentations of the vveomen upon him.</head>
+                  <p>
+                     <figure>
+                        <figDesc>woodcut depicting Jesus carrying cross beside weeping women</figDesc>
+                        <byline>AS</byline>
+                        <p>I.C.I.</p>
+                     </figure>
+                  </p>
+                  <p>Daughters of Ierusalem, vveepe not upon me, but vve<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>pe upon your selves and u<g ref="char:EOLhyphen"/>pon your children. <hi>Luc. 23. v.</hi> 28.</p>
+                  <pb n="42" facs="tcp:57565:22"/>
+               </div>
+               <div type="illustration">
+                  <head>35. His last fall vnder the Crosse.</head>
+                  <p>
+                     <figure>
+                        <figDesc>woodcut depicting fallen Jesus below cross</figDesc>
+                        <byline>AS</byline>
+                        <p>I.C.I.</p>
+                     </figure>
+                  </p>
+                  <p>At mount Calvary he fell dovvne vnder the Crosse. <hi>Adrichom. in Descript. Ierus. n.</hi> 118.</p>
+                  <pb n="43" facs="tcp:57565:22"/>
+               </div>
+               <div type="illustration">
+                  <head>36. The plucking of his garments. and giving him gall to <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>.</head>
+                  <p>
+                     <figure>
+                        <figDesc>woodcut depicting a stripped Jesus being handed wine</figDesc>
+                        <byline>AS</byline>
+                        <p>I.C.I.</p>
+                     </figure>
+                  </p>
+                  <p>H<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ere they pulled of his garments <hi>Adrichom ibid.</hi> They gave him vvine to drinke min<g ref="char:EOLhyphen"/>gled vvith gal. <hi>Math. 27. v.</hi> 34.</p>
+                  <pb n="44" facs="tcp:57565:23"/>
+               </div>
+               <div type="illustration">
+                  <head>37. His Crucifying on the ground.</head>
+                  <p>
+                     <figure>
+                        <figDesc>woodcut depicting Jesus being nailed to the cross</figDesc>
+                        <byline>AS</byline>
+                        <p>I.C.I.</p>
+                     </figure>
+                  </p>
+                  <p>After they came to the place, vvhich is cal<g ref="char:EOLhyphen"/>led Calvary, there they Crucified him. <hi>Luc. 23. v.</hi> 33.</p>
+                  <pb n="45" facs="tcp:57565:23"/>
+               </div>
+               <div type="illustration">
+                  <head>38. His hanging upon the Crosse.</head>
+                  <p>
+                     <figure>
+                        <figDesc>woodcut depicting Jesus crucified with Mary and man (or angel?) standing beside the cross</figDesc>
+                        <byline>AS</byline>
+                        <p>I.C.I.</p>
+                     </figure>
+                  </p>
+                  <p>There stoode beside the Crosse of IESVS his Mother. <hi>Ioan. 19. v.</hi> 25.</p>
+                  <pb n="46" facs="tcp:57565:24"/>
+               </div>
+               <div type="illustration">
+                  <head>39. The taking him douvvne into his B. Mothers armes.</head>
+                  <p>
+                     <figure>
+                        <figDesc>woodcut depicting Jesus laying in Mary's lap beside man (or angel?)</figDesc>
+                        <byline>AS</byline>
+                        <p>I.C.I.</p>
+                     </figure>
+                  </p>
+                  <p>Being taken dovvne from the Crosse, his Mother receaued him into her armes. The place is yet extant. <hi>Adrichom. in descript. Ierus n.</hi> 255.</p>
+                  <pb n="47" facs="tcp:57565:24"/>
+               </div>
+               <div type="illustration">
+                  <head>40. His Burial.</head>
+                  <p>
+                     <figure>
+                        <figDesc>woodcut depicting Jesus' burial</figDesc>
+                        <byline>AS</byline>
+                        <p>I.C.I.</p>
+                     </figure>
+                  </p>
+                  <p>He layd him in a monu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ent that vvas he<g ref="char:EOLhyphen"/>vved ou<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> a rocke. <hi>Math. 15. v.</hi> 46.</p>
+               </div>
+            </div>
+         </div>
+         <div type="prayer">
+            <pb facs="tcp:57565:25"/>
+            <head>The most Illustrious Lord Archbishop of Mechline grants 40. daies pardon to all that shal say this prayer once a day for thanck giuing, and increase of the ho<g ref="char:EOLhyphen"/>nour of the continual Crosse of IESVS CHRIST.</head>
+            <p>
+               <hi>O IESVS crucified, let all men know the and love the it is the onely thing I desire. This doe I aske by the Crosse which thou modest choice of from alle eternity, and onderwent in thy Nativity, in thy Circumcision, at thy Oblation in the Temple, in thy Elight to Egypt, in the Leauing thy Parents, in thy Labouring with thy hands, in the death of S. Ioseph, in thy Temptations, in thy VVe<g ref="char:EOLhyphen"/>arines at the fountaine▪ in thy Ignominies from the Ie<g ref="char:EOLhyphen"/>wes, in the death of S. Iohn Baptist, in theyr Stoning the, in theyr offering to throw the downe from the mountayne. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aske the same likewise by all that thou sufferedst at the taking thy last leave of thy B. Mother, at the Table with Iudas, in the Garden, at his trecherous Kisse, at the Tor<g ref="char:EOLhyphen"/>rent of Cedron, in the House of Annas, Caiphas, Pilate, Herod, at the Pillar, at thy Crowning with thornes, at thy being shewen to the people, at thy Carrying the Crosse, at thy first fall vnder it, at thy meeting the same time thy B. Mother, Simon Cyraeneus, the devout Veronica, at thy second fall under the Crosse, at thy meeting the daugh<g ref="char:EOLhyphen"/>ters of Ierusalem, at thy last fall under the Crosse, at the plucking of thy garmēt and drinking gall, at thy Crucifix<g ref="char:EOLhyphen"/>cion on the ground, at thy Hanghing upon the Crosse, at thy taking downe from thence into the armes of thy most afflicted Mother, finally, at thy Burial and laying the in the Sepulchre. Againe and againe by all these Crosses doe I beg of the most sweete IESVS, that all men may know and love the, and it is the onely thing I desire. Amen.</hi>
+            </p>
+            <p>The same P<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>elate grants like vvise 40. daies pardon to all that for the space of, Paters and s. Aves. shall medi<g ref="char:EOLhyphen"/>tate upon any one of these mysteries, or say s. Pater and Aves in honour of it.</p>
+            <closer>To the greater glorie of Christ ever Crucifie.</closer>
+            <pb facs="tcp:57565:25"/>
+         </div>
+      </body>
+   </text>
+</TEI>
